@@ -825,7 +825,8 @@ background-color: transparent;
 }
 
 @media(max-width:575px){
-   .home-section .home-content h1{
+ 
+   .home-section .home-content h2{
     font-size: 25px;
     letter-spacing: 5px;
    }
